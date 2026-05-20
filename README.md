@@ -1,6 +1,4 @@
-# Mobile Top BKK Coffee App by copter
 
-## โปรเจ็ก ที่สุดของร้านกาแฟในกรุงเทพ (UX/UI)
 <kbd>
 <img width="250" alt="Screenshot_20260514_020615_Expo Go" src="https://github.com/user-attachments/assets/0793ae59-d79e-4255-89bf-2c9af7253651" />
 
